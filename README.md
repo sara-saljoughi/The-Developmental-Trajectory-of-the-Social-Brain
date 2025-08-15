@@ -4,7 +4,7 @@ This project investigates the **developmental trajectory of the social brain** d
 
 Two complementary analysis methods are included:
 
-1. **Inter-Brain-Region Analysis** – Implemented in `Social brain.ipynb`
+1. **Inter-Brain-Region Analysis** – Implemented in `Social Brain.ipynb`
 2. **Generalized Additive Models (GAMs)** – Implemented in the R Markdown HTML output
 
 For full details, refer to the paper:  
